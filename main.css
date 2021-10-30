@@ -35,7 +35,10 @@ ol
     justify-content: space-around;
     gap: 350px; 
 }
-
+#company_name
+{
+    font-weight: 700;
+}
 ul
 {
     list-style-type: none; 
@@ -57,7 +60,7 @@ ol a button
     background-color: transparent;
     border: none;
     font-size: 18px;
-    font-weight: 700;
+    font-weight: 400;
 }
 
 .shadow
